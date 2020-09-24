@@ -1,0 +1,200 @@
+Uri: https://rachewaren.ml/
+File Name: c:\Downloaded Web Sites\rachewaren.ml\index.htm
+Content Type: text/html
+
+Uri: https://rachewaren.ml/img/icon.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\img\icon.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/newdesign/bootstrap-new.css
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\newdesign\bootstrap-new.css
+Content Type: text/css
+
+Uri: https://rachewaren.ml/main/newdesign/orangenew.css
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\newdesign\orangenew.css
+Content Type: text/css
+
+Uri: https://rachewaren.ml/main/js/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://rachewaren.ml/main/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Medium.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Medium.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Medium.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Medium.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Medium.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Bold.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Bold.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Bold.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Bold.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Bold.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Regular.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Regular.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Regular.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Regular.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/Ubuntu-Regular.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\Ubuntu-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-regular.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-regular.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-regular.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-regular.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-200.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-200.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-200.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-200-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-200.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-200.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-200.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-200.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-500.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-500.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-500.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-500.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-500.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-500.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-700.eot
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-700.eot?
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-700.woff
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-700.woff
+Content Type: font/woff
+
+Uri: https://rachewaren.ml/main/fonts/poppins-v12-latin-700.ttf
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\fonts\poppins-v12-latin-700.ttf
+Content Type: font/ttf
+
+Uri: https://rachewaren.ml/main/images/faq-step1.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\faq-step1.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/faq-step2.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\faq-step2.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/faq-step3.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\faq-step3.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/line-y-index.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\line-y-index.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/topindex.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\topindex.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/arrow-down-index.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\arrow-down-index.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/titleslider-bg.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\titleslider-bg.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/razdel-top.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\razdel-top.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/pay-title.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\pay-title.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/bb-range-inv.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\bb-range-inv.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/slider-superior.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\slider-superior.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/razdel-fun.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\razdel-fun.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/instruction-index.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\instruction-index.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/line-white.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\line-white.html
+Content Type: text/html
+
+Uri: https://rachewaren.ml/main/images/topcase.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\topcase.png
+Content Type: image/png
+
+Uri: https://rachewaren.ml/main/images/item.png
+File Name: c:\Downloaded Web Sites\rachewaren.ml\main\images\item.png
+Content Type: image/png
+
